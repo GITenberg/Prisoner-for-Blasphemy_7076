@@ -1,0 +1,27 @@
+_repo: Prisoner-for-Blasphemy_7076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foote, G. W. (George William)
+    alias: Foote, George William
+    birthdate: 1850
+    deathdate: 1915
+    gutenberg_agent_id: '2333'
+    url: http://www.gutenberg.org/2009/agents/2333
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Blasphemy) -- Great Britain'
+- !lcc 'BL'
+- !lcsh 'Blasphemy'
+- GITenberg
+title: Prisoner for Blasphemy
+url: http://www.gutenberg.org/ebooks/7076
